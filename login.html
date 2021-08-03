@@ -118,6 +118,32 @@ li a:hover {
   vertical-align: middle;
  }
 
+* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* vertical line */
+.vl {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  border: 2px solid #ddd;
+  height: 175px;
+}
+
+/* text inside the vertical line */
+.inner {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 8px 10px;
+}      
  <link rel = "stylesheet" href = "styles.css">
  </style>
     
@@ -164,7 +190,6 @@ li a:hover {
      <div class="container">
   <form action="/action_page.php">
     <div class="row">
-      <h2 style="text-align:center">Login with Social Media or Manually</h2>
       <div class="vl">
         <span class="vl-innertext">or</span>
       </div>
@@ -172,7 +197,6 @@ li a:hover {
 
       <div class="col">
         <div class="hide-md-lg">
-          <p>Or sign in manually:</p>
         </div>
 
         <input type="text" name="username" placeholder="Username" required>
