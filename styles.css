@@ -61,6 +61,13 @@ p {
       background-color: #e7e1ef;
      
     }
+
+/*customers*/
+  .customers {
+     margin 50x 0;
+     text-align: centre;
+   }
+     
    
 ul {
   list-style-type: none;
@@ -114,9 +121,4 @@ li a:hover {
   vertical-align: middle;
 
    
-/*customers*/
-  .customers {
-     margin 50x 0;
-     text-align: centre;
-   }
-     
+
