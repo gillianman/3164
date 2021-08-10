@@ -9,7 +9,23 @@ body{
           background-color: #FFFFFF;
         }
 
-h1 {
+.page {
+  
+       width: 810px;
+       height: 2020px;
+       background-color: white;   
+       margin: auto;
+       padding: 50px;
+       padding-top: 35px;
+       font-family: 'Source Sans Pro', sans-serif;
+       
+    }
+
+ .pure-g {
+         margin-bottom: 25px;
+       }
+
+.pure-g> h1 {
          font-weight: 1000;
          color: #8c6bb1;
          font-size: 20px;
@@ -32,21 +48,6 @@ h3 {
 
        }
 
-.page {
-  
-       width: 810px;
-       height: 2020px;
-       background-color: white;   
-       margin: auto;
-       padding: 50px;
-       padding-top: 35px;
-       font-family: 'Source Sans Pro', sans-serif;
-       
-    }
-
- .pure-g {
-         margin-bottom: 25px;
-       }
 
    
    .vis-container{
