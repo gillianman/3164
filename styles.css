@@ -5,9 +5,8 @@
   font-family: 'Source Sans Pro', sans-serif;
   
 }
-<style>
 
-.page{
+.page {
        width: 810px;
        height: 2020px;
        background-color: white;   
@@ -16,6 +15,10 @@
        padding-top: 35px;
        
     }
+
+ .pure-g {
+         margin-bottom: 25px;
+       }
 
    h1{
          font-weight: 1000;
@@ -45,22 +48,12 @@
 
        }
 
-    .page{
-       width: 810px;
-       height: 2020px;
-       background-color: white;   
-       margin: auto;
-       padding: 50px;
-       padding-top: 35px;
-       
-    }
+   
    .vis-container{
          width: 100%;
        }
 
-   .pure-g{
-         margin-bottom: 25px;
-       }
+  
    p {
        text-align:left; 
 
@@ -158,7 +151,7 @@
 
     .login {
 
-     position: fixed;
+     position: absolute;
      top: 8;
      right: 8;
      height: 30px;
@@ -168,4 +161,3 @@
 
    }
 
- </style>
