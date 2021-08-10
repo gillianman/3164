@@ -14,6 +14,9 @@ page{
        height: 2020px;
        background-color: white;   
        margin: auto;
+       padding: 50px;
+       padding-top: 35px;
+  
 
        
     }
