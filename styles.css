@@ -152,7 +152,7 @@ h3 {
 
     .login {
 
-     position: absolute;
+     position: fixed;
      top: 8;
      right: 8;
      height: 30px;
