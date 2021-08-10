@@ -5,7 +5,25 @@
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-h1{
+body{
+          background-color: #FFFFFF;
+        }
+
+page{
+       width: 810px;
+       height: 2020px;
+       background-color: white;   
+       margin: auto;
+       padding: 50px;
+       padding-top: 35px;
+       
+    }
+
+.pure-g{
+         margin-bottom: 25px;
+       }
+
+.page > h1{
          font-weight: 1000;
          color: #8c6bb1;
          font-size: 20px;
@@ -26,29 +44,17 @@ h1{
 
        }
 
-   body{
-          background-color: #FFFFFF;
-        }
+   
 
 
        }
 
-    .page{
-       width: 810px;
-       height: 2020px;
-       background-color: white;   
-       margin: auto;
-       padding: 50px;
-       padding-top: 35px;
-       
-    }
+    .
    .vis-container{
          width: 100%;
        }
 
-   .pure-g{
-         margin-bottom: 25px;
-       }
+
    p {
        text-align:left; 
 
