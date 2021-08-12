@@ -147,7 +147,7 @@ h1{
 
     .login {
 
-     position: static;
+     position: fixed;
      top: 0;
      right: 0;
      height: 30px;
