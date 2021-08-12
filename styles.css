@@ -148,8 +148,8 @@ h1{
     .login {
 
      position: relative;
-     top: 8;
-     right: 8;
+     top: 0%;
+     right: 0%;
      height: 30px;
      width: 5%;
      background-color: #FC85E1; 
