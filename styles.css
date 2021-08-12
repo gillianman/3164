@@ -157,4 +157,8 @@ h1{
 
    }
 
+img.first-r  { left: 0%; position: relative; }
+img.second-r { left: 25%; position: relative; }
+img.third-r  { left: 50%; position: relative; }
+
 
