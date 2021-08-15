@@ -155,15 +155,17 @@ h1{
   }
 
     .login {
-
+     background-color: #e38fdc; 
+     color: white;
+     text-align: center;
      position: absolute;
      top: 0px;
      right: 0px;
      height: 5%;
      width: 7%;
-     background-color: #e38fdc; 
-     color: white;
-     text-align: center;
+     
+     
+     
 
    }
 
