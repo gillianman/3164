@@ -147,9 +147,9 @@ h1{
 
     .login {
 
-     position: fixed;
-     top: 0;
-     right: 0;
+     position: absolute;
+     top: 0px;
+     right: 0px;
      height: 30px;
      width: 5%;
      background-color: #FC85E1; 
