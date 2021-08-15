@@ -33,12 +33,12 @@ h1{
 
        }
 
-    .page{
+    .header{
        width: 810px;
        height: 2020px;
-       background-color: white;   
+       background-color: #f2c4df;   
        margin: auto;
-       padding: 50px;
+    	padding: 50px;
        padding-top: 35px;
        
     }
@@ -141,9 +141,16 @@ h1{
       width: 500px;
       border-radius: 3px;
       margin-right: 50px;
-
+      
      
     }
+    
+    .nevagation {
+    position: fixed; /* Sticky/fixed navbar */
+  	width: 100%;
+    height:50%
+    
+  }
 
     .login {
 
@@ -227,4 +234,4 @@ img.first-r  { left: 15%; position: relative; }
 img.second-r { left: 30%; position: relative; }
 img.third-r  { left: 45%; position: relative; }
 
-
+}
