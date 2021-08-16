@@ -243,8 +243,8 @@ h1{
   }   
    
 
-img.first-r  { left: 20%; position: relative; }
-img.second-r { left: 40%; position: relative; }
-img.third-r  { left: 60%; position: relative; }
+img.first-r  { left: 16%; position: relative; }
+img.second-r { left: 32%; position: relative; }
+img.third-r  { left: 48%; position: relative; }
 
 }
