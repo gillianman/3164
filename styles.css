@@ -249,8 +249,8 @@ h1{
   }   
    
 
-img.first-r  { left: 200px; position: relative; }
-img.second-r { left: 400px; position: relative; }
-img.third-r  { left: 600px; position: relative; }
+img.first-r  { left: 200px; position: absolute;}
+img.second-r { left: 400px; position: absolute; }
+img.third-r  { left: 600px; position: absolute; }
 
 }
