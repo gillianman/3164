@@ -249,8 +249,8 @@ h1{
   }   
    
 
-img.first-r  { left: 16%; position: relative; margin:20;}
-img.second-r { left: 32%; position: relative; margin:20;}
-img.third-r  { left: 48%; position: relative; margin:20;}
+img.first-r  { left: 16%; position: relative;}
+img.second-r { left: 32%; position: relative;}
+img.third-r  { left: 48%; }
 
 }
