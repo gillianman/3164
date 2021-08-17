@@ -154,12 +154,10 @@ h1{
    /* laptop */ 
    #laptop img    {
       position: relative;
-      left:10%;
-      
+      left:5%; 
       width: 500px;
       border-radius: 3px;
       margin-right: 50px;
-      margin-left: 50px;
       
      
     }
