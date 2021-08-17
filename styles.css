@@ -127,7 +127,7 @@ h1{
     cursor: pointer;
     position: absolute;
     right:700px;
-    top:500px;
+    top:200px;
     
 
    }
@@ -153,6 +153,9 @@ h1{
 
    /* laptop */ 
    #laptop img    {
+      position: relative;
+      left:10%;
+      
       width: 500px;
       border-radius: 3px;
       margin-right: 50px;
