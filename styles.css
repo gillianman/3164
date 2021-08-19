@@ -251,6 +251,6 @@ h1{
 
 img.first-r  { left: 13%; position: relative;}
 img.second-r { left: 26%; position: relative;}
-img.third-r  { left: 39%; }
+img.third-r  { left: 39%;  position: relative;}
 
 }
