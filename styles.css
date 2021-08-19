@@ -69,13 +69,9 @@ h1{
    p {
        text-align:center; 
       margin-left: 100px;
-
-       display: table-cell;   
-       }
-       p1 {
-       text-align:left; 
-       vertical-align: middle;
+      
        display: table-cell;  
+       
        font-size; 12px;
        }
 
