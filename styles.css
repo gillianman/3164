@@ -158,12 +158,9 @@ h1{
    #laptop img    {
       width: 500px;
       border-radius: 3px;
-      margin-right: 350px;
       margin-bottom: 25px;
       position: absolute;
-      right:0px;
-      
-     
+      align:right;
     }
     
     .navigation {
