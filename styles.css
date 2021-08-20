@@ -155,7 +155,8 @@ h1{
       width: 500px;
       border-radius: 3px;
       margin-bottom: 150px;
-     position: relative;
+     position: absolute;
+      top 350px;
       right: 0px;
     }
     
