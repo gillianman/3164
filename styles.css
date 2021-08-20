@@ -126,7 +126,7 @@ h1{
     cursor: pointer;
     position: absolute;
     left 300px;
-    top:200px;
+    top:400px;
     
 
    }
@@ -154,9 +154,8 @@ h1{
    #laptop img    {
       width: 500px;
       border-radius: 3px;
-      margin-bottom: 180px;
+      margin-bottom: 150px;
      position: relative;
-      align: right;
       right: 0px;
     }
     
