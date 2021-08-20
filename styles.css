@@ -154,9 +154,10 @@ h1{
    #laptop img    {
       width: 500px;
       border-radius: 3px;
-      margin-bottom: 250px;
-
-      align:right;
+      margin-bottom: 200px;
+      align: right;
+     position: absolute;
+     right: 0px;
     }
     
     .navigation {
