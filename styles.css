@@ -152,11 +152,12 @@ h1{
 
    /* laptop */ 
    #laptop img    {
+      top 350px;
+      right 0px;
       width: 500px;
       border-radius: 3px;
       margin-bottom: 120px;
-      top 350px;
-      right 0px;
+
     }
     
     .navigation {
