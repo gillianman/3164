@@ -152,7 +152,7 @@ h1{
 
    /* laptop */ 
    #laptop   {
-     position:absolute;
+     position:static;
       top: 350px;
       right: 0px;
       width: 350px;
