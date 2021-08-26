@@ -248,13 +248,15 @@ h1.hero:after {
 }
 
 .col:hover > .icon.side {
-  background: initial;
-  color: initial;
+  background: #efa2e5;
+  color: #efa2e5;
 }
 
 .responsivegroup {
   display: none;
 }
+
+
 /*
   Column specifics
 */
