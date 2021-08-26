@@ -68,36 +68,7 @@ button{
   
 }
 
-ul.nav2 {
-  float: right;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-ul.nav2 li {
-  float: right;
-  position: relative;
-}
-
-ul.nav2 li a {
-  transition: color 0.2s linear;
-  font-size: 18px;
-}
-
-ul.nav2 li:hover a {
-  color: #efa2e5;
-}
-
-ul.nav2 li a {
-  padding: 21px;
-  color: initial;
-  text-decoration: initial;
-}
-
-
 ul.nav {
-  float: left;
   text-align: center;
   list-style: none;
   margin: 0;
@@ -105,8 +76,9 @@ ul.nav {
 }
 
 ul.nav li {
-  float: left;
   position: relative;
+  display: inline-block;
+  list-style-type: none;
 }
 
 ul.nav li a {
