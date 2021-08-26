@@ -27,6 +27,10 @@ body {
   background: #f7f7f7;
 }
 
+.section.bg2 {
+  background: #e0e0e0;
+}
+
 
 /*
   Header
