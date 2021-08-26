@@ -74,13 +74,10 @@ body {
 .login{
   font-size: 20px;
   color: black;
-  position: absolute;
   top: 50%;
   transform: translateY(-50%);
   float: center;
   height: 40px;
-  width: 170px;
-  margin-left: 5px;
 }
 
 ul.nav {
