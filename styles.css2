@@ -67,8 +67,12 @@ body {
   margin-left: 5px;
 }
 
-.logotext{
-  font-size: 18px;
+.login{
+  display: inline;
+  font-size: 28px;
+  padding: 18px;
+  text-align: center;
+  cursor: pointer;
 }
 
 ul.nav {
