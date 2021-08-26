@@ -71,7 +71,6 @@ body {
   display: inline;
   font-size: 20px;
   color: black;
-  padding: 10px 30px;
   text-align: center;
   cursor: pointer;
   transition: background 0.15s linear;
@@ -160,14 +159,6 @@ h1.hero:after {
   background: rgba(255, 255, 255, 0.1);
   cursor: pointer;
 }
-/* 
-  Client images
-*/
-#client{
-  width: 210;
-  height:200;
-}
-
 
 /* 
   Columns 
