@@ -58,7 +58,6 @@ body {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: red;
   float: left;
   height: 40px;
   width: 170px;
@@ -83,7 +82,7 @@ ul.nav li a {
 }
 
 ul.nav li:hover a {
-  color: red;
+  color: #EFA2E5;
 }
 
 ul.nav li a {
@@ -97,7 +96,7 @@ ul.nav li a {
 
 .section .slider,
 .section .footer {
-  background: #333;
+  background: #f2c4df;
 }
 
 .slidercontent {
