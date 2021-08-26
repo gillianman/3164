@@ -42,7 +42,7 @@ body {
   top: 0;
   left: 0;
   z-index: 100;
-  background: rgba(245, 245, 245, 0.97);
+  background: #f5f5f5;
 }
 
 .header.small {
@@ -88,7 +88,7 @@ ul.nav li a {
 
 .section .slider,
 .section .footer {
-  background: #f2c4df;
+  background: #d4abc3;
 }
 
 .slidercontent {
