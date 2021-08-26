@@ -73,6 +73,7 @@ body {
   padding: 25px;
   text-align: center;
   cursor: pointer;
+  transition: background 0.15s linear;
 }
 
 ul.nav {
