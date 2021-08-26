@@ -71,7 +71,8 @@ body {
   display: inline;
   font-size: 20px;
   color: black;
-  padding: 8px 20px;
+  padding-bottom: 13px;
+  padding-left: 38px;
   text-align: center;
   cursor: pointer;
   transition: background 0.15s linear;
@@ -95,7 +96,7 @@ ul.nav li a {
 }
 
 ul.nav li:hover a {
-  color: #EFA2E5;
+  color: #efa2e5;
 }
 
 ul.nav li a {
@@ -242,7 +243,7 @@ h1.hero:after {
 }
 
 .col:hover > .icon {
-  background: #F44336;
+  background: #efa2e5;
   color: white;
 }
 
