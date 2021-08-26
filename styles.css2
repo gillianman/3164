@@ -26,6 +26,8 @@ body {
 .section.bg {
   background: #f7f7f7;
 }
+
+
 /*
   Header
 */
@@ -58,13 +60,16 @@ body {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: red;
+  background: #e8bcd6;
   float: left;
   height: 40px;
   width: 170px;
   margin-left: 5px;
 }
 
+.logotext{
+  font-size: 18px;
+}
 
 ul.nav {
   float: right;
