@@ -80,7 +80,6 @@ button{
 
 ul.nav2 {
   float: left;
-  background-color: #e8bcd6;
   list-style: none;
   margin: 0;
   padding: 0;
