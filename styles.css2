@@ -28,7 +28,7 @@ body {
 }
 
 .section.bg2 {
-  background: #dedede;
+  background: #e3e3e3;
 }
 
 
