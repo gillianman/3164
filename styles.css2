@@ -71,7 +71,7 @@ body {
   display: inline;
   font-size: 20px;
   color: black;
-  padding-bottom: 13px;
+  padding-bottom: 28px;
   padding-left: 38px;
   text-align: center;
   cursor: pointer;
