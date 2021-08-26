@@ -248,15 +248,7 @@ h1.hero:after {
   width: 50px;
 }
 
-.col:hover > .icon {
-  background: #efa2e5;
-  color: white;
-}
 
-.col:hover > .icon.side {
-  background: #efa2e5;
-  color: #efa2e5;
-}
 
 .responsivegroup {
   display: none;
