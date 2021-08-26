@@ -254,66 +254,6 @@ img.second-r { left: 30%; position: relative;}
 img.third-r  { left: 45%;  position: relative;}
 
 
-.section {
-  width: 100%;
-}
-
-/*
-  Slider
-*/
-
-.section .slider,
-.section .footer {
-  background: #f2c4df;
-}
-
-.slidercontent {
-  text-align: center;
-}
-.hero {
-  font-family: 'Roboto Slab', sans-serif;
-  color: white;
-  font-weight: normal;
-  letter-spacing: 1px;
-}
-
-h1.hero {
-  font-size: 54px;
-}
-
-h2.hero {
-  font-size: 30px;
-  margin-bottom: 60px;
-}
-
-h1.hero:after {
-  content: "";
-  width: 300px;
-  position: relative;
-  border-bottom: 1px solid #aaa;
-  text-align: center;
-  margin: auto;
-  margin-top: 15px;
-}
-
-.call {
-  color: white;
-  display: block;
-  margin-bottom: 20px;
-}
-
-.call span {
-  display: inline;
-  border: 1px solid white;
-  padding: 8px 13px;
-  font-size: 20px;
-  transition: background 0.15s linear;
-}
-
-.call span:hover {
-  background: rgba(255, 255, 255, 0.1);
-  cursor: pointer;
-}
 
 }
 
