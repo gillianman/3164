@@ -150,6 +150,12 @@ h1.hero:after {
   cursor: pointer;
 }
 /* 
+  Client images
+*/
+#client{
+  width: 31.3%;
+}
+/* 
   Columns 
 */
 
