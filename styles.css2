@@ -487,15 +487,9 @@ input[type=checkbox]:checked + label {
   position: relative;
 }
 
-.image-dropping,
 .image-upload-wrap{
   background-color: #e3e3e3;
   border: 8px dashed #e3e3e3;
-}
-
-.image-title-wrap {
-  padding: 0 15px 15px 15px;
-  color: #222;
 }
 
 .drag-text {
