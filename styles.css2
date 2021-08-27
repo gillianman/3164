@@ -488,9 +488,9 @@ input[type=checkbox]:checked + label {
 }
 
 .image-dropping,
-.image-upload-wrap:hover {
+.image-upload-wrap{
   background-color: #e3e3e3;
-  border: 6px #e3e3e3;
+  border: 8px dashed #e3e3e3;
 }
 
 .image-title-wrap {
