@@ -475,8 +475,9 @@ input[type=checkbox]:checked + label {
   background-color: #e3e3e3;
   border:6px  #e3e3e3;
   text-align: center;
-  padding: 10px;
+  padding: 8px;
   width: 500px;
+  margin-left:60px;
 }
 
 
