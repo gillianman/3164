@@ -483,12 +483,14 @@ input[type=checkbox]:checked + label {
 
 .image-upload-wrap {
   margin-top: 20px;
+  border: 6px #e3e3e3;
   position: relative;
 }
 
 .image-dropping,
 .image-upload-wrap:hover {
   background-color: #e3e3e3;
+  border: 6px #e3e3e3;
 }
 
 .image-title-wrap {
