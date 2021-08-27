@@ -28,8 +28,8 @@
      <h1>Our Model</h1>
     <h2>Upload a mammography to begin</h2>
         <form action="/action_page.php">
-               <input type="file" id="myFile" name="filename">
-              <input type="submit">
+           <input class="file-upload-input" type='file' onchange="readURL(this);" accept="image/*" />
+            <input type="submit">
             </form>
         
  </div>
